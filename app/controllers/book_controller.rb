@@ -1,10 +1,16 @@
 class BookController < ApplicationController
-  def title:string
+  def new
   end
 
-  def body:text
+  def index
   end
 
-  def user_id:integer
+  def show
+  end
+  
+  def edit
+  end
+  
+  def destroy
   end
 end
